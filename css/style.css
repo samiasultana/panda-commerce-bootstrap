@@ -1,0 +1,15 @@
+.panda-card{
+    border: 0;
+}
+.panda-card-footer{
+    border: 0;
+    background-color: white;
+}
+.categories img{
+    width: 100px;
+    border-radius: 25px;
+}
+.panda-slide, .bg-color{
+    background-color: #fceae8;
+    border-radius: 10px;
+}
