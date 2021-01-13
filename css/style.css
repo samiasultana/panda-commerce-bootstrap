@@ -13,3 +13,19 @@
     background-color: #fceae8;
     border-radius: 10px;
 }
+footer{
+    text-align: center;
+}
+#subscribe{
+    height: 300px;
+}
+.buy-now-button{
+    background-image: linear-gradient(to bottom, #FF589B 0%, #FF136F 100%);
+    border: none;
+    border-radius: 8px;
+    padding: 9px 25px;
+    color: white;
+}
+.price{
+    color: #FF136F ;
+}
